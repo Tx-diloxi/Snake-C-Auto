@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/marceaulesech/Desktop/BUT_1E2/COURS/Semestre_1/SAE/SAE_1.02/Final",
+      "program": "/Users/marceaulesech/Desktop/BUT_1E2/COURS/Semestre_1/SAE/SAE_1.02/Final/build/Debug/outDebug"
+    }
+  ]
+}
