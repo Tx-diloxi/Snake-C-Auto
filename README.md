@@ -52,14 +52,10 @@ Le projet est composé de plusieurs versions, chacune apportant de nouvelles fon
 ## Compilation et exécution
 
 ```sh
-gcc -o snake main.c
+cc -o snake main.c
 ./snake
 ```
 
 ## Auteurs
 
-- [Ton nom ou pseudo]
-
-## Licence
-
-Ce projet est distribué sous licence MIT.
+- Mls
